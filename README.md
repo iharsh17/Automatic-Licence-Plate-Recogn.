@@ -26,7 +26,7 @@ A rule based character segmentation is performed using contours. We add several 
 Clone the project
 
 ```bash
-  git clone https://github.com/harshRaj2017/Automated-Licence-Plate-Recognition-System.git
+  git clone https://github.com/iharsh17/Automatic-Licence-Plate-Recognition.git
 ```
 
 Go to the project directory
